@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cervin12
-- 👀 I’m interested in fui/ux and flutter
+- 👀 I’m interested in ui/ux and flutter
 - 🌱 I’m currently learning UI/UX and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
