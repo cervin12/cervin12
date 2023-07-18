@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cervin12
-- 👀 I’m interested in ui/ux and flutter
-- 🌱 I’m currently learning UI/UX and Flutter
+- 👀 I’m interested in frontend and ui/ux
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
